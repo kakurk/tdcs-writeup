@@ -2,7 +2,11 @@
 title: "TDCS and Memory"
 author: "Kyle Kurkela"
 date: "9/13/2017"
-output: word_document
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+csl: ./apa-5th-edition.csl
 bibliography: ./citations.bib
 ---
 
